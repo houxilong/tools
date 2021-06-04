@@ -9,3 +9,10 @@ https://github.com/kermitt2/grobid
 
 #历史文档的区域分割与文字识别
 https://github.com/dhlab-epfl/dhSegment
+
+
+#A unified toolkit for Deep Learning Based Document Image Analysis
+https://github.com/Layout-Parser/layout-parser
+
+# 使用Detectron2做版式识别
+https://github.com/hpanwar08/detectron2
