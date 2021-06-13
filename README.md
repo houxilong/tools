@@ -7,6 +7,12 @@ https://github.com/kermitt2/grobid
 # 论文全文RDF转为XML工具
 https://github.com/kermitt2/grobid
 
+# PDF中信息抽取
+https://github.com/pdfminer/pdfminer.six
+
+# PDF中信息抽取 PDFFigure2.0
+https://github.com/Austen-W/pdffigures2
+
 # 历史文档的区域分割与文字识别
 https://github.com/dhlab-epfl/dhSegment
 
